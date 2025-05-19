@@ -1,0 +1,19 @@
+.cell {
+  width: 100px;
+  height: 100px;
+  font-size: 2rem;
+  background-color: #f0f0f0;
+  border: 2px solid #999;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.cell.x {
+  color: white;
+  background-color: #007bff;
+}
+
+.cell.o {
+  color: white;
+  background-color: #28a745;
+}

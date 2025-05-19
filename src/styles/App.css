@@ -1,0 +1,16 @@
+.app {
+  text-align: center;
+  margin-top: 40px;
+  font-family: Arial, sans-serif;
+}
+
+.status {
+  margin: 20px;
+  font-size: 1.5rem;
+}
+
+.restart-btn {
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+}
