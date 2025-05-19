@@ -9,11 +9,11 @@
 }
 
 .cell.x {
-  color: white;
+  color: red;
   background-color: #007bff;
 }
 
 .cell.o {
-  color: white;
+  color: blue;
   background-color: #28a745;
 }
